@@ -97,7 +97,7 @@ class Platform extends React.Component {
                     <div className="col-lg-4 margin-t-20">
                         <div className="services-box text-center hover-effect">
                             <i className="pe-7s-door-lock text-custom"></i>
-                            <h4 className="padding-t-15">Security with Cybervision</h4>
+                            <h4 className="padding-t-15">Syntervision Security</h4>
                             <p className="padding-t-15 text-muted">Securing your business depends on firstly knowing what you have and then, what changed and why. It's crucial to spot the changes in time to minimize risk to the business. And when a breach occurs, analysts need information that describes what and who was impacted and how the breach happened. </p>
                         </div>
                     </div>

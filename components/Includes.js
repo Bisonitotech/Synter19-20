@@ -1,7 +1,5 @@
 import React from 'react';
-
-import stylesheet from 'styles/css/main.scss';
-
+import stylesheet from '../styles/css/main.css';
 class Includes extends React.Component {
 
 
